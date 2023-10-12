@@ -3,6 +3,7 @@ import styles from "./Header.module.css";
 const Header = () => {
   return (
     <div className={styles.container}>
+      <p>test</p>
       <img
         className={styles.headerLogo}
         src="/images/Depop-logo.svg"
